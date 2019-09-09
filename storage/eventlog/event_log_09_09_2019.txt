@@ -1,0 +1,1 @@
+09-09-2019 18:01:11 - event_log --> 127.0.0.1|1|http://localhost:7777/mini-banking-system/public/change/password|update,users|password changed
